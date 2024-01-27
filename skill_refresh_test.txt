@@ -1,0 +1,3 @@
+Opened in VSCode via terminal using "code "file name".
+Edit in VSCode then save with cmd+s
+Back in terminal or the terminal in VSCode, stage with "add", then commit with "commit -m"
